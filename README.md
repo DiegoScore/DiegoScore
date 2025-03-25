@@ -10,7 +10,7 @@
 Passionate software engineer with a strong background in **full-stack development**, **machine learning**, and **AI model deployment**. I strive to create innovative, scalable solutions that drive value and optimize business outcomes.  
 My journey is fueled by continuous learning and a desire to tackle complex challenges. 🚀  
 
-## ⚔️ FOR THE HORDE!  
+## ⚔️ FOR THE HORDE! and ☠ Priest of Rathma
 
 <table>
   <tr>
