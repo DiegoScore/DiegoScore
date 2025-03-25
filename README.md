@@ -22,7 +22,9 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
     </td>
   </tr>
 </table>
+
 ---
+
 ### 💼 **Professional Experience**  
 - **Chatbot Developer** — *EccConsultores (Jul 2019 – Aug 2019)*  
   - Developed a real estate chatbot using **JavaScript**, including a user manual.  
