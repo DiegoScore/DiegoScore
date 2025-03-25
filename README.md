@@ -1,6 +1,9 @@
 ## 💻 **Diego Campillay Manríquez**  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full-Stack+Developer;Machine+Learning+Engineer;AI+%7C+ML+%7C+Data+Science+Enthusiast;Blizzard+Gamer+%7C+For+The+Horde!;Always+learning+new+things&center=true&width=500&height=45">
+</a>
+
 </p>
 
 🌍 **Location:** Santiago, Chile  
@@ -28,15 +31,15 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 ---
 
 ### 💼 **Professional Experience**  
-- **Chatbot Developer** — *EccConsultores (Jul 2019 – Aug 2019)*  
+- **Chatbot Developer**  
   - Developed a real estate chatbot using **JavaScript**, including a user manual.  
 
-- **Full-Stack Developer** — *NEVAPE (Dec 2021 – Feb 2023)*  
+- **Full-Stack Developer**  
   - Managed a web project under **Agile Methodology**.  
   - Built a life cycle assessment application using **Angular** (front-end) and **Node.js** with **MySQL** (back-end).  
   - Developed custom APIs and an activity log user system.  
 
-- **Machine Learning Engineer** — *Coordinador Eléctrico Nacional (Feb 2024 – Dec 2024)*  
+- **Machine Learning Engineer** 
   - Developed electricity consumption prediction models using **RNN** with **LSTM**.  
   - Analyzed historical consumption and temperature data (2017-2023) to anticipate overloads and power outages.  
 
@@ -49,7 +52,7 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 
 ### 📜 **Certifications**  
 - **IBM Skills Data Science Practitioners**  
-
+- **let's go for more!! 📖🖥💻**
 ---
 
 ### 🛠️ **Technical Skills**  
