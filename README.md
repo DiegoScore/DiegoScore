@@ -92,9 +92,7 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
   </div> 30%
 
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  <div style="background-color: #e1e1e1; border-radius: 10px; padding: 3px; width: 300px;">
-    <div style="background-color: #61DAFB; width: 50%; height: 15px; border-radius: 10px;"></div>
-  </div> 50%
+  <progress value="30" max="100"></progress> 30%
 
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   <div style="background-color: #e1e1e1; border-radius: 10px; padding: 3px; width: 300px;">
