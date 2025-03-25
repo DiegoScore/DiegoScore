@@ -86,23 +86,17 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 ---
 ### 🛠️ **Learning 🤖 📚**
 
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  <div style="background-color: #e1e1e1; border-radius: 10px; padding: 3px; width: 300px;">
-    <div style="background-color: #00ADD8; width: 30%; height: 15px; border-radius: 10px;"></div>
-  </div> 30%
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+  🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 30%
 
-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  <progress value="30" max="100"></progress> 30%
+- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+  🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50%
 
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  <div style="background-color: #e1e1e1; border-radius: 10px; padding: 3px; width: 300px;">
-    <div style="background-color: #0175C2; width: 40%; height: 15px; border-radius: 10px;"></div>
-  </div> 40%
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+  🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40%
 
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  <div style="background-color: #e1e1e1; border-radius: 10px; padding: 3px; width: 300px;">
-    <div style="background-color: #512BD4; width: 60%; height: 15px; border-radius: 10px;"></div>
-  </div> 60%
+- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+  🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60%
 ---
 ### 🎮 **Fun Fact**  
 💬 *Blizzard games practically raised me — from them come my two favorite games: **Diablo** and **World of Warcraft**.*  
