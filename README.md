@@ -1,7 +1,7 @@
 ## 💻 **Diego Campillay Manríquez**  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering;Full-Stack+Developer;Machine+Learning+Engineer;AI+%7C+ML+%7C+Data+Science+Enthusiast;Blizzard+Gamer+%7C+For+The+Horde!;Always+learning+new+things;A%26D%3C3&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full-Stack+Developer;Machine+Learning+Engineer;AI+%7C+ML+%7C+Data+Science+Enthusiast;Blizzard+Gamer+%7C+For+The+Horde!;Always+learning+new+things;A%26D%3C3&center=true&width=500&height=45">
 </a>
 
 </p>
