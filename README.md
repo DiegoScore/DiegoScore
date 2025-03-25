@@ -84,7 +84,13 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
+### 🛠️ **Learning 🤖📚**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
+---
 ### 🎮 **Fun Fact**  
 💬 *Blizzard games practically raised me — from them come my two favorite games: **Diablo** and **World of Warcraft**.*  
 
