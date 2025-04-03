@@ -46,7 +46,7 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 ---
 
 ### 🎓 **Education**  
-- **Software Engineering** — *Universidad Andrés Bello, Santiago* (2018 – 2024)  
+- **Computer Science Engineering** — *Universidad Andrés Bello, Santiago* (2018 – 2024)  
 
 ---
 
