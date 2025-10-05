@@ -93,7 +93,7 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 
 
 ### 📣 **Contact Me**  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-campillay)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-leonardo-campillay-manriquez-4b5096234/)  
 - 📧 diego.campillay.m@gmail.com  
 
 ---
