@@ -51,7 +51,8 @@ My journey is fueled by continuous learning and a desire to tackle complex chall
 ---
 
 ### 📜 **Certifications**  
-- **IBM Skills Data Science Practitioners**  
+- **IBM Skills Data Science Practitioners**
+- **IBM Skills Artificial Intelligence Practitioners**  
 - **let's go for more!! 📖🖥💻**
 ---
 
